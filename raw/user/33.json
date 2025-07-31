@@ -1,0 +1,70 @@
+{
+  "id": 33,
+  "firstName": "Carter",
+  "lastName": "Baker",
+  "maidenName": "",
+  "age": 31,
+  "gender": "male",
+  "email": "carter.baker@x.dummyjson.com",
+  "phone": "+49 787-512-9117",
+  "username": "carterb",
+  "password": "carterbpass",
+  "birthDate": "1993-4-19",
+  "image": "https://dummyjson.com/icon/carterb/128",
+  "bloodGroup": "A+",
+  "height": 190.96,
+  "weight": 70.78,
+  "eyeColor": "Green",
+  "hair": {
+    "color": "Brown",
+    "type": "Straight"
+  },
+  "ip": "167.111.147.45",
+  "address": {
+    "address": "625 Third Street",
+    "city": "Denver",
+    "state": "Oregon",
+    "stateCode": "OR",
+    "postalCode": "74622",
+    "coordinates": {
+      "lat": -63.00584,
+      "lng": 76.189171
+    },
+    "country": "United States"
+  },
+  "macAddress": "35:0:ad:91:5f:f3",
+  "university": "Washington University in St. Louis",
+  "bank": {
+    "cardExpire": "01/26",
+    "cardNumber": "9469552713257189",
+    "cardType": "NPS",
+    "currency": "NZD",
+    "iban": "WAY3DD43Q6Q80C91JL6QMMPG"
+  },
+  "company": {
+    "department": "Product Management",
+    "name": "Luettgen and Sons",
+    "title": "Software Engineer",
+    "address": {
+      "address": "127 Cedar Street",
+      "city": "Washington",
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "postalCode": "17426",
+      "coordinates": {
+        "lat": 71.127142,
+        "lng": 174.470146
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "193-203",
+  "ssn": "927-818-529",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "user"
+}

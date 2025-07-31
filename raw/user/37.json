@@ -1,0 +1,70 @@
+{
+  "id": 37,
+  "firstName": "Mason",
+  "lastName": "Parker",
+  "maidenName": "",
+  "age": 34,
+  "gender": "male",
+  "email": "mason.parker@x.dummyjson.com",
+  "phone": "+61 837-389-4095",
+  "username": "masonp",
+  "password": "masonppass",
+  "birthDate": "1990-4-20",
+  "image": "https://dummyjson.com/icon/masonp/128",
+  "bloodGroup": "AB+",
+  "height": 171.56,
+  "weight": 76.25,
+  "eyeColor": "Hazel",
+  "hair": {
+    "color": "Gray",
+    "type": "Wavy"
+  },
+  "ip": "97.184.116.71",
+  "address": {
+    "address": "419 Elm Street",
+    "city": "Seattle",
+    "state": "Louisiana",
+    "stateCode": "LA",
+    "postalCode": "20540",
+    "coordinates": {
+      "lat": -59.018685,
+      "lng": 82.296555
+    },
+    "country": "United States"
+  },
+  "macAddress": "51:97:60:8b:4a:75",
+  "university": "Yale University",
+  "bank": {
+    "cardExpire": "04/28",
+    "cardNumber": "0954541144518224",
+    "cardType": "Interac",
+    "currency": "SEK",
+    "iban": "AJCKYA81F772Y6I2JEQLMAZC"
+  },
+  "company": {
+    "department": "Engineering",
+    "name": "Kihn - Thompson",
+    "title": "Developer",
+    "address": {
+      "address": "345 Tenth Street",
+      "city": "Austin",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "postalCode": "15423",
+      "coordinates": {
+        "lat": -31.021039,
+        "lng": -102.785277
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "509-535",
+  "ssn": "475-408-496",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "user"
+}

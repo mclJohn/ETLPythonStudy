@@ -1,0 +1,70 @@
+{
+  "id": 45,
+  "firstName": "Lincoln",
+  "lastName": "Kelly",
+  "maidenName": "",
+  "age": 30,
+  "gender": "male",
+  "email": "lincoln.kelly@x.dummyjson.com",
+  "phone": "+49 680-666-9673",
+  "username": "lincolnk",
+  "password": "lincolnkpass",
+  "birthDate": "1994-1-12",
+  "image": "https://dummyjson.com/icon/lincolnk/128",
+  "bloodGroup": "A+",
+  "height": 191.01,
+  "weight": 73.38,
+  "eyeColor": "Amber",
+  "hair": {
+    "color": "White",
+    "type": "Straight"
+  },
+  "ip": "82.138.239.3",
+  "address": {
+    "address": "108 Adams Street",
+    "city": "Columbus",
+    "state": "Montana",
+    "stateCode": "MT",
+    "postalCode": "51083",
+    "coordinates": {
+      "lat": 59.268321,
+      "lng": -30.466022
+    },
+    "country": "United States"
+  },
+  "macAddress": "f6:3c:e7:3b:d6:40",
+  "university": "Yale University",
+  "bank": {
+    "cardExpire": "03/26",
+    "cardNumber": "2005194726432164",
+    "cardType": "RuPay",
+    "currency": "TRY",
+    "iban": "ZS6B89ES5M9TCN41GZGOWCJT"
+  },
+  "company": {
+    "department": "Research and Development",
+    "name": "Johnson and Sons",
+    "title": "Legal Counsel",
+    "address": {
+      "address": "1794 Elm Street",
+      "city": "Houston",
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "postalCode": "78494",
+      "coordinates": {
+        "lat": 52.096422,
+        "lng": 178.506028
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "761-657",
+  "ssn": "439-236-645",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "user"
+}

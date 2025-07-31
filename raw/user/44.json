@@ -1,0 +1,70 @@
+{
+  "id": 44,
+  "firstName": "Scarlett",
+  "lastName": "Wright",
+  "maidenName": "",
+  "age": 26,
+  "gender": "female",
+  "email": "scarlett.wright@x.dummyjson.com",
+  "phone": "+1 599-432-3048",
+  "username": "scarlettw",
+  "password": "scarlettwpass",
+  "birthDate": "1998-5-9",
+  "image": "https://dummyjson.com/icon/scarlettw/128",
+  "bloodGroup": "A+",
+  "height": 180.04,
+  "weight": 70.75,
+  "eyeColor": "Brown",
+  "hair": {
+    "color": "Gray",
+    "type": "Straight"
+  },
+  "ip": "243.186.233.187",
+  "address": {
+    "address": "1276 Cedar Street",
+    "city": "Phoenix",
+    "state": "Vermont",
+    "stateCode": "VT",
+    "postalCode": "32823",
+    "coordinates": {
+      "lat": -58.699428,
+      "lng": 143.479322
+    },
+    "country": "United States"
+  },
+  "macAddress": "79:c9:54:dd:af:2a",
+  "university": "University of Pennsylvania",
+  "bank": {
+    "cardExpire": "04/29",
+    "cardNumber": "6881960720756508",
+    "cardType": "Diners Club International",
+    "currency": "SEK",
+    "iban": "GE69DH4DIW8TTIT7JE64SAT0"
+  },
+  "company": {
+    "department": "Legal",
+    "name": "Schmeler - Spinka",
+    "title": "Chief Financial Officer",
+    "address": {
+      "address": "1722 Fourth Street",
+      "city": "Indianapolis",
+      "state": "Michigan",
+      "stateCode": "MI",
+      "postalCode": "53020",
+      "coordinates": {
+        "lat": 83.572349,
+        "lng": -108.398653
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "835-488",
+  "ssn": "728-544-407",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edge/97.0.1072.76 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "user"
+}

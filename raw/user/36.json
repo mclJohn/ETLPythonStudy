@@ -1,0 +1,70 @@
+{
+  "id": 36,
+  "firstName": "Harper",
+  "lastName": "Turner",
+  "maidenName": "",
+  "age": 33,
+  "gender": "female",
+  "email": "harper.turner@x.dummyjson.com",
+  "phone": "+49 980-340-5333",
+  "username": "harpert",
+  "password": "harpertpass",
+  "birthDate": "1991-1-14",
+  "image": "https://dummyjson.com/icon/harpert/128",
+  "bloodGroup": "A+",
+  "height": 191.03,
+  "weight": 70.18,
+  "eyeColor": "Gray",
+  "hair": {
+    "color": "Red",
+    "type": "Curly"
+  },
+  "ip": "102.200.5.180",
+  "address": {
+    "address": "1964 Fifth Street",
+    "city": "Dallas",
+    "state": "Utah",
+    "stateCode": "UT",
+    "postalCode": "63361",
+    "coordinates": {
+      "lat": -41.149882,
+      "lng": -167.072873
+    },
+    "country": "United States"
+  },
+  "macAddress": "3c:5f:b3:2:1c:5",
+  "university": "Boston University",
+  "bank": {
+    "cardExpire": "02/28",
+    "cardNumber": "8250985716703050",
+    "cardType": "BC Card",
+    "currency": "JPY",
+    "iban": "CVZUYWP0DE2FJV35UBX139M6"
+  },
+  "company": {
+    "department": "Engineering",
+    "name": "Ritchie and Sons",
+    "title": "Marketing Manager",
+    "address": {
+      "address": "1431 Lincoln Street",
+      "city": "Denver",
+      "state": "Delaware",
+      "stateCode": "DE",
+      "postalCode": "12416",
+      "coordinates": {
+        "lat": 15.465539,
+        "lng": -76.452876
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "474-323",
+  "ssn": "290-677-251",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "user"
+}

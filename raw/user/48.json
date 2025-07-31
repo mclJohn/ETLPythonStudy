@@ -1,0 +1,70 @@
+{
+  "id": 48,
+  "firstName": "Luna",
+  "lastName": "Russell",
+  "maidenName": "",
+  "age": 27,
+  "gender": "female",
+  "email": "luna.russell@x.dummyjson.com",
+  "phone": "+91 730-486-3735",
+  "username": "lunar",
+  "password": "lunarpass",
+  "birthDate": "1997-6-18",
+  "image": "https://dummyjson.com/icon/lunar/128",
+  "bloodGroup": "O-",
+  "height": 188,
+  "weight": 76.37,
+  "eyeColor": "Hazel",
+  "hair": {
+    "color": "White",
+    "type": "Straight"
+  },
+  "ip": "218.176.123.51",
+  "address": {
+    "address": "968 Elm Street",
+    "city": "San Diego",
+    "state": "Colorado",
+    "stateCode": "CO",
+    "postalCode": "64610",
+    "coordinates": {
+      "lat": 81.64788,
+      "lng": 179.922909
+    },
+    "country": "United States"
+  },
+  "macAddress": "d0:4b:7c:b2:be:9d",
+  "university": "University of Florida",
+  "bank": {
+    "cardExpire": "05/27",
+    "cardNumber": "2753155771474852",
+    "cardType": "Elo",
+    "currency": "CNY",
+    "iban": "7I5K7G5VXEDAKWG1D52TD5QA"
+  },
+  "company": {
+    "department": "Marketing",
+    "name": "Moore Inc",
+    "title": "Research Analyst",
+    "address": {
+      "address": "1108 Fourth Street",
+      "city": "San Francisco",
+      "state": "Tennessee",
+      "stateCode": "TN",
+      "postalCode": "63517",
+      "coordinates": {
+        "lat": -49.230074,
+        "lng": 103.094302
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "270-115",
+  "ssn": "867-546-518",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "user"
+}

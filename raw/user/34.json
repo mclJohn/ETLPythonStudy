@@ -1,0 +1,70 @@
+{
+  "id": 34,
+  "firstName": "Sofia",
+  "lastName": "Mitchell",
+  "maidenName": "",
+  "age": 25,
+  "gender": "female",
+  "email": "sofia.mitchell@x.dummyjson.com",
+  "phone": "+92 957-686-6804",
+  "username": "sofiam",
+  "password": "sofiampass",
+  "birthDate": "1999-11-18",
+  "image": "https://dummyjson.com/icon/sofiam/128",
+  "bloodGroup": "O-",
+  "height": 186.93,
+  "weight": 69.14,
+  "eyeColor": "Red",
+  "hair": {
+    "color": "Blonde",
+    "type": "Curly"
+  },
+  "ip": "214.76.55.140",
+  "address": {
+    "address": "21 Cedar Street",
+    "city": "San Francisco",
+    "state": "Oregon",
+    "stateCode": "OR",
+    "postalCode": "42411",
+    "coordinates": {
+      "lat": -44.27707,
+      "lng": -40.123604
+    },
+    "country": "United States"
+  },
+  "macAddress": "23:b:b2:dd:6:f",
+  "university": "University of North Carolina--Chapel Hill",
+  "bank": {
+    "cardExpire": "04/26",
+    "cardNumber": "1261953782214521",
+    "cardType": "Visa",
+    "currency": "INR",
+    "iban": "UADPJBZ9RKH43HTQTVH3XJVU"
+  },
+  "company": {
+    "department": "Research and Development",
+    "name": "Berge, Reinger and Oberbrunner",
+    "title": "Engineer",
+    "address": {
+      "address": "325 Fourth Street",
+      "city": "Indianapolis",
+      "state": "California",
+      "stateCode": "CA",
+      "postalCode": "74759",
+      "coordinates": {
+        "lat": 8.578595,
+        "lng": -31.731083
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "738-442",
+  "ssn": "522-409-302",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "user"
+}

@@ -1,0 +1,70 @@
+{
+  "id": 39,
+  "firstName": "Lucas",
+  "lastName": "Gray",
+  "maidenName": "",
+  "age": 30,
+  "gender": "male",
+  "email": "lucas.gray@x.dummyjson.com",
+  "phone": "+44 687-435-7119",
+  "username": "lucasg",
+  "password": "lucasgpass",
+  "birthDate": "1994-4-6",
+  "image": "https://dummyjson.com/icon/lucasg/128",
+  "bloodGroup": "O-",
+  "height": 195.26,
+  "weight": 88.5,
+  "eyeColor": "Amber",
+  "hair": {
+    "color": "Red",
+    "type": "Wavy"
+  },
+  "ip": "56.97.195.115",
+  "address": {
+    "address": "590 Lincoln Street",
+    "city": "Houston",
+    "state": "Wisconsin",
+    "stateCode": "WI",
+    "postalCode": "12506",
+    "coordinates": {
+      "lat": -50.975209,
+      "lng": 53.492629
+    },
+    "country": "United States"
+  },
+  "macAddress": "39:83:8b:37:af:6e",
+  "university": "Syracuse University",
+  "bank": {
+    "cardExpire": "01/25",
+    "cardNumber": "2810336175495461",
+    "cardType": "JCB",
+    "currency": "CNY",
+    "iban": "P9XHDUDOI7KBTD5L2G3SC6QX"
+  },
+  "company": {
+    "department": "Accounting",
+    "name": "Fadel Inc",
+    "title": "Chief Operating Officer",
+    "address": {
+      "address": "99 First Street",
+      "city": "Columbus",
+      "state": "South Dakota",
+      "stateCode": "SD",
+      "postalCode": "81266",
+      "coordinates": {
+        "lat": -86.557025,
+        "lng": -154.751446
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "883-600",
+  "ssn": "178-343-654",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "user"
+}

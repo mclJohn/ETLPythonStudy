@@ -1,0 +1,70 @@
+{
+  "id": 43,
+  "firstName": "Benjamin",
+  "lastName": "Foster",
+  "maidenName": "",
+  "age": 34,
+  "gender": "male",
+  "email": "benjamin.foster@x.dummyjson.com",
+  "phone": "+61 333-911-3476",
+  "username": "benjaminf",
+  "password": "benjaminfpass",
+  "birthDate": "1990-11-1",
+  "image": "https://dummyjson.com/icon/benjaminf/128",
+  "bloodGroup": "O+",
+  "height": 164.2,
+  "weight": 58.9,
+  "eyeColor": "Gray",
+  "hair": {
+    "color": "Blue",
+    "type": "Kinky"
+  },
+  "ip": "132.29.94.179",
+  "address": {
+    "address": "25 Sixth Street",
+    "city": "San Diego",
+    "state": "Delaware",
+    "stateCode": "DE",
+    "postalCode": "48884",
+    "coordinates": {
+      "lat": 41.653453,
+      "lng": 175.676203
+    },
+    "country": "United States"
+  },
+  "macAddress": "39:b4:48:18:5:9c",
+  "university": "University of Michigan--Ann Arbor",
+  "bank": {
+    "cardExpire": "03/26",
+    "cardNumber": "2928698223409259",
+    "cardType": "Maestro",
+    "currency": "TRY",
+    "iban": "HBOFBLQ4I6NC3SD4UA8N2SMB"
+  },
+  "company": {
+    "department": "Product Management",
+    "name": "Kuhlman LLC",
+    "title": "Technical Support Engineer",
+    "address": {
+      "address": "1704 Madison Street",
+      "city": "Chicago",
+      "state": "Colorado",
+      "stateCode": "CO",
+      "postalCode": "34806",
+      "coordinates": {
+        "lat": 80.111181,
+        "lng": -125.230725
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "735-917",
+  "ssn": "769-766-682",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "user"
+}

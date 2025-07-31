@@ -1,0 +1,70 @@
+{
+  "id": 32,
+  "firstName": "Natalie",
+  "lastName": "Harris",
+  "maidenName": "",
+  "age": 28,
+  "gender": "female",
+  "email": "natalie.harris@x.dummyjson.com",
+  "phone": "+49 584-501-9302",
+  "username": "natalieh",
+  "password": "nataliehpass",
+  "birthDate": "1996-7-23",
+  "image": "https://dummyjson.com/icon/natalieh/128",
+  "bloodGroup": "AB+",
+  "height": 196.7,
+  "weight": 57,
+  "eyeColor": "Green",
+  "hair": {
+    "color": "Black",
+    "type": "Wavy"
+  },
+  "ip": "15.75.88.81",
+  "address": {
+    "address": "356 Pine Street",
+    "city": "San Jose",
+    "state": "Mississippi",
+    "stateCode": "MS",
+    "postalCode": "31121",
+    "coordinates": {
+      "lat": -20.105724,
+      "lng": 136.91646
+    },
+    "country": "United States"
+  },
+  "macAddress": "96:92:8f:92:af:fe",
+  "university": "Washington University in St. Louis",
+  "bank": {
+    "cardExpire": "02/27",
+    "cardNumber": "6770466105455683",
+    "cardType": "UnionPay",
+    "currency": "TRY",
+    "iban": "OWB91F2VZ2E9CLXNOL6UWHHG"
+  },
+  "company": {
+    "department": "Research and Development",
+    "name": "Mante LLC",
+    "title": "Accountant",
+    "address": {
+      "address": "898 Seventh Street",
+      "city": "Indianapolis",
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "postalCode": "16128",
+      "coordinates": {
+        "lat": 60.587133,
+        "lng": 14.884213
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "444-790",
+  "ssn": "844-175-995",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "user"
+}

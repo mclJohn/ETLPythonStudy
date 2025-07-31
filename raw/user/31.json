@@ -1,0 +1,70 @@
+{
+  "id": 31,
+  "firstName": "Gabriel",
+  "lastName": "Adams",
+  "maidenName": "",
+  "age": 36,
+  "gender": "male",
+  "email": "gabriel.adams@x.dummyjson.com",
+  "phone": "+91 936-400-4116",
+  "username": "gabriela",
+  "password": "gabrielapass",
+  "birthDate": "1988-9-5",
+  "image": "https://dummyjson.com/icon/gabriela/128",
+  "bloodGroup": "B+",
+  "height": 181.72,
+  "weight": 79.14,
+  "eyeColor": "Green",
+  "hair": {
+    "color": "Blonde",
+    "type": "Curly"
+  },
+  "ip": "22.129.163.106",
+  "address": {
+    "address": "1814 Cedar Street",
+    "city": "Charlotte",
+    "state": "Indiana",
+    "stateCode": "IN",
+    "postalCode": "21191",
+    "coordinates": {
+      "lat": 52.410844,
+      "lng": 23.60067
+    },
+    "country": "United States"
+  },
+  "macAddress": "a6:1e:22:5f:fd:49",
+  "university": "Massachusetts Institute of Technology (MIT)",
+  "bank": {
+    "cardExpire": "03/27",
+    "cardNumber": "3430117055178040",
+    "cardType": "RuPay",
+    "currency": "GBP",
+    "iban": "8CWPTN20RQPDSYBIFFBKST0Y"
+  },
+  "company": {
+    "department": "Accounting",
+    "name": "Miller, Schowalter and Wisozk",
+    "title": "Technical Support Engineer",
+    "address": {
+      "address": "1144 Cedar Street",
+      "city": "Columbus",
+      "state": "Georgia",
+      "stateCode": "GA",
+      "postalCode": "81421",
+      "coordinates": {
+        "lat": 9.880888,
+        "lng": 123.403919
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "627-325",
+  "ssn": "281-870-221",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "user"
+}

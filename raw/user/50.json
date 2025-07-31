@@ -1,0 +1,70 @@
+{
+  "id": 50,
+  "firstName": "Stella",
+  "lastName": "Hughes",
+  "maidenName": "",
+  "age": 33,
+  "gender": "female",
+  "email": "stella.hughes@x.dummyjson.com",
+  "phone": "+92 378-326-3439",
+  "username": "stellah",
+  "password": "stellahpass",
+  "birthDate": "1991-11-6",
+  "image": "https://dummyjson.com/icon/stellah/128",
+  "bloodGroup": "A-",
+  "height": 171.2,
+  "weight": 81.45,
+  "eyeColor": "Brown",
+  "hair": {
+    "color": "Blue",
+    "type": "Straight"
+  },
+  "ip": "201.29.33.153",
+  "address": {
+    "address": "926 Elm Street",
+    "city": "Jacksonville",
+    "state": "New Hampshire",
+    "stateCode": "NH",
+    "postalCode": "24463",
+    "coordinates": {
+      "lat": -29.825372,
+      "lng": 116.639085
+    },
+    "country": "United States"
+  },
+  "macAddress": "29:78:ea:4:44:a5",
+  "university": "University of California--San Diego",
+  "bank": {
+    "cardExpire": "01/26",
+    "cardNumber": "6288370557661493",
+    "cardType": "RuPay International",
+    "currency": "INR",
+    "iban": "SH1UHKUCEMW3OCALA3C9SBR5"
+  },
+  "company": {
+    "department": "Research and Development",
+    "name": "Ernser Group",
+    "title": "Database Administrator",
+    "address": {
+      "address": "1869 Jefferson Street",
+      "city": "Indianapolis",
+      "state": "Montana",
+      "stateCode": "MT",
+      "postalCode": "65401",
+      "coordinates": {
+        "lat": -26.748208,
+        "lng": -12.086179
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "323-682",
+  "ssn": "970-230-310",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "user"
+}

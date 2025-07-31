@@ -1,0 +1,70 @@
+{
+  "id": 38,
+  "firstName": "Aria",
+  "lastName": "Roberts",
+  "maidenName": "",
+  "age": 26,
+  "gender": "female",
+  "email": "aria.roberts@x.dummyjson.com",
+  "phone": "+61 411-514-5320",
+  "username": "ariar",
+  "password": "ariarpass",
+  "birthDate": "1998-3-25",
+  "image": "https://dummyjson.com/icon/ariar/128",
+  "bloodGroup": "A-",
+  "height": 199.62,
+  "weight": 88.96,
+  "eyeColor": "Gray",
+  "hair": {
+    "color": "Blue",
+    "type": "Curly"
+  },
+  "ip": "208.86.10.37",
+  "address": {
+    "address": "560 Fifth Street",
+    "city": "Seattle",
+    "state": "Rhode Island",
+    "stateCode": "RI",
+    "postalCode": "70664",
+    "coordinates": {
+      "lat": 36.157244,
+      "lng": -29.219594
+    },
+    "country": "United States"
+  },
+  "macAddress": "7d:16:14:f8:d5:4",
+  "university": "Princeton University",
+  "bank": {
+    "cardExpire": "01/27",
+    "cardNumber": "6700474320260358",
+    "cardType": "RuPay",
+    "currency": "TRY",
+    "iban": "7I9GEGMXL9VGE6G8R8LIU56R"
+  },
+  "company": {
+    "department": "Legal",
+    "name": "Sanford and Sons",
+    "title": "Database Administrator",
+    "address": {
+      "address": "69 Ninth Street",
+      "city": "Chicago",
+      "state": "Ohio",
+      "stateCode": "OH",
+      "postalCode": "77252",
+      "coordinates": {
+        "lat": -1.902962,
+        "lng": 15.129767
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "329-619",
+  "ssn": "631-656-511",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "user"
+}

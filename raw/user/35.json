@@ -1,0 +1,70 @@
+{
+  "id": 35,
+  "firstName": "Jack",
+  "lastName": "Ward",
+  "maidenName": "",
+  "age": 29,
+  "gender": "male",
+  "email": "jack.ward@x.dummyjson.com",
+  "phone": "+91 857-765-4373",
+  "username": "jackw",
+  "password": "jackwpass",
+  "birthDate": "1995-9-23",
+  "image": "https://dummyjson.com/icon/jackw/128",
+  "bloodGroup": "B-",
+  "height": 198.13,
+  "weight": 56.73,
+  "eyeColor": "Hazel",
+  "hair": {
+    "color": "White",
+    "type": "Kinky"
+  },
+  "ip": "131.243.182.227",
+  "address": {
+    "address": "164 Elm Street",
+    "city": "Phoenix",
+    "state": "Idaho",
+    "stateCode": "ID",
+    "postalCode": "42061",
+    "coordinates": {
+      "lat": 52.754451,
+      "lng": 32.383886
+    },
+    "country": "United States"
+  },
+  "macAddress": "33:6c:1c:b8:f5:92",
+  "university": "Pepperdine University",
+  "bank": {
+    "cardExpire": "03/25",
+    "cardNumber": "5624707322246699",
+    "cardType": "Elo",
+    "currency": "PKR",
+    "iban": "M6XUGZUMRVYFPA749TW11FOQ"
+  },
+  "company": {
+    "department": "Legal",
+    "name": "Keebler and Sons",
+    "title": "Chief Information Officer",
+    "address": {
+      "address": "1505 Madison Street",
+      "city": "Denver",
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "postalCode": "87171",
+      "coordinates": {
+        "lat": 15.938706,
+        "lng": 70.153019
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "195-420",
+  "ssn": "714-118-525",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "user"
+}

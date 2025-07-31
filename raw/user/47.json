@@ -1,0 +1,70 @@
+{
+  "id": 47,
+  "firstName": "Nicholas",
+  "lastName": "Bailey",
+  "maidenName": "",
+  "age": 35,
+  "gender": "male",
+  "email": "nicholas.bailey@x.dummyjson.com",
+  "phone": "+49 212-856-4272",
+  "username": "nicholasb",
+  "password": "nicholasbpass",
+  "birthDate": "1989-6-14",
+  "image": "https://dummyjson.com/icon/nicholasb/128",
+  "bloodGroup": "A+",
+  "height": 162.29,
+  "weight": 50.86,
+  "eyeColor": "Gray",
+  "hair": {
+    "color": "Gray",
+    "type": "Curly"
+  },
+  "ip": "171.101.211.225",
+  "address": {
+    "address": "55 Madison Street",
+    "city": "Chicago",
+    "state": "Rhode Island",
+    "stateCode": "RI",
+    "postalCode": "58331",
+    "coordinates": {
+      "lat": 2.340163,
+      "lng": -34.156688
+    },
+    "country": "United States"
+  },
+  "macAddress": "74:f6:24:f2:f7:6d",
+  "university": "Yale University",
+  "bank": {
+    "cardExpire": "04/29",
+    "cardNumber": "2176026170212775",
+    "cardType": "JCB",
+    "currency": "EUR",
+    "iban": "H5QRESBL5GN954V0X557JYX8"
+  },
+  "company": {
+    "department": "Research and Development",
+    "name": "Runolfsson, Kohler and Welch",
+    "title": "Chief Financial Officer",
+    "address": {
+      "address": "1009 Third Street",
+      "city": "San Francisco",
+      "state": "Maine",
+      "stateCode": "ME",
+      "postalCode": "54340",
+      "coordinates": {
+        "lat": -7.502715,
+        "lng": -139.88832
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "839-819",
+  "ssn": "956-576-764",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "user"
+}

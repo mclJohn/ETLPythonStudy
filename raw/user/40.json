@@ -1,0 +1,70 @@
+{
+  "id": 40,
+  "firstName": "Ella",
+  "lastName": "Adams",
+  "maidenName": "",
+  "age": 27,
+  "gender": "female",
+  "email": "ella.adams@x.dummyjson.com",
+  "phone": "+1 450-865-6061",
+  "username": "ellaa",
+  "password": "ellaapass",
+  "birthDate": "1997-6-20",
+  "image": "https://dummyjson.com/icon/ellaa/128",
+  "bloodGroup": "B-",
+  "height": 167.53,
+  "weight": 64.19,
+  "eyeColor": "Hazel",
+  "hair": {
+    "color": "White",
+    "type": "Wavy"
+  },
+  "ip": "175.172.136.236",
+  "address": {
+    "address": "1420 First Street",
+    "city": "Washington",
+    "state": "Utah",
+    "stateCode": "UT",
+    "postalCode": "85475",
+    "coordinates": {
+      "lat": -20.421386,
+      "lng": -125.851148
+    },
+    "country": "United States"
+  },
+  "macAddress": "fb:e6:93:1f:65:b1",
+  "university": "Northeastern University",
+  "bank": {
+    "cardExpire": "04/28",
+    "cardNumber": "0222821965561452",
+    "cardType": "Visa",
+    "currency": "BRL",
+    "iban": "JPNKGL9N1J930H744PR6F13F"
+  },
+  "company": {
+    "department": "Human Resources",
+    "name": "Cassin Group",
+    "title": "Chief Technology Officer",
+    "address": {
+      "address": "258 Ninth Street",
+      "city": "Los Angeles",
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "postalCode": "48333",
+      "coordinates": {
+        "lat": -83.225804,
+        "lng": 127.981653
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "681-377",
+  "ssn": "195-311-611",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "user"
+}

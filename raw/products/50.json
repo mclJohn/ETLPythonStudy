@@ -1,0 +1,59 @@
+{
+  "id": 50,
+  "title": "Black Whisk",
+  "description": "The Black Whisk is a kitchen essential for whisking and beating ingredients. Its ergonomic handle and sleek design make it a practical and stylish tool.",
+  "category": "kitchen-accessories",
+  "price": 9.99,
+  "discountPercentage": 10.24,
+  "rating": 3.9,
+  "stock": 73,
+  "tags": [
+    "kitchen tools",
+    "utensils"
+  ],
+  "sku": "KIT-BRD-BLA-050",
+  "weight": 1,
+  "dimensions": {
+    "width": 13.03,
+    "height": 5.99,
+    "depth": 20.64
+  },
+  "warrantyInformation": "3 months warranty",
+  "shippingInformation": "Ships in 1 month",
+  "availabilityStatus": "In Stock",
+  "reviews": [
+    {
+      "rating": 3,
+      "comment": "Not worth the price!",
+      "date": "2025-04-30T09:41:02.053Z",
+      "reviewerName": "Cameron Perez",
+      "reviewerEmail": "cameron.perez@x.dummyjson.com"
+    },
+    {
+      "rating": 1,
+      "comment": "Waste of money!",
+      "date": "2025-04-30T09:41:02.053Z",
+      "reviewerName": "Benjamin Foster",
+      "reviewerEmail": "benjamin.foster@x.dummyjson.com"
+    },
+    {
+      "rating": 5,
+      "comment": "Very pleased!",
+      "date": "2025-04-30T09:41:02.053Z",
+      "reviewerName": "Paisley Bell",
+      "reviewerEmail": "paisley.bell@x.dummyjson.com"
+    }
+  ],
+  "returnPolicy": "30 days return policy",
+  "minimumOrderQuantity": 40,
+  "meta": {
+    "createdAt": "2025-04-30T09:41:02.053Z",
+    "updatedAt": "2025-04-30T09:41:02.053Z",
+    "barcode": "3112495795209",
+    "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+  },
+  "images": [
+    "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/1.webp"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/thumbnail.webp"
+}

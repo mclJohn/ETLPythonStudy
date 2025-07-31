@@ -1,0 +1,70 @@
+{
+  "id": 42,
+  "firstName": "Avery",
+  "lastName": "Carter",
+  "maidenName": "",
+  "age": 28,
+  "gender": "female",
+  "email": "avery.carter@x.dummyjson.com",
+  "phone": "+44 254-655-6112",
+  "username": "averyc",
+  "password": "averycpass",
+  "birthDate": "1996-8-21",
+  "image": "https://dummyjson.com/icon/averyc/128",
+  "bloodGroup": "B-",
+  "height": 179.92,
+  "weight": 59.37,
+  "eyeColor": "Blue",
+  "hair": {
+    "color": "Blue",
+    "type": "Straight"
+  },
+  "ip": "187.69.252.251",
+  "address": {
+    "address": "1999 Seventh Street",
+    "city": "San Diego",
+    "state": "West Virginia",
+    "stateCode": "WV",
+    "postalCode": "13916",
+    "coordinates": {
+      "lat": -59.303292,
+      "lng": -87.318538
+    },
+    "country": "United States"
+  },
+  "macAddress": "f0:9a:ba:d9:48:d5",
+  "university": "Yale University",
+  "bank": {
+    "cardExpire": "01/29",
+    "cardNumber": "5465476274483180",
+    "cardType": "Maestro",
+    "currency": "EUR",
+    "iban": "PMD8YU00ONQZ6N15NUIUA664"
+  },
+  "company": {
+    "department": "Support",
+    "name": "Schmidt - Hyatt",
+    "title": "Sales Manager",
+    "address": {
+      "address": "979 Tenth Street",
+      "city": "San Jose",
+      "state": "New York",
+      "stateCode": "NY",
+      "postalCode": "59824",
+      "coordinates": {
+        "lat": -5.788002,
+        "lng": 88.846665
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "854-428",
+  "ssn": "902-510-406",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "user"
+}

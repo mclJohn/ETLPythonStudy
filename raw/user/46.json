@@ -1,0 +1,70 @@
+{
+  "id": 46,
+  "firstName": "Hannah",
+  "lastName": "Robinson",
+  "maidenName": "",
+  "age": 29,
+  "gender": "female",
+  "email": "hannah.robinson@x.dummyjson.com",
+  "phone": "+92 556-625-4398",
+  "username": "hannahr",
+  "password": "hannahrpass",
+  "birthDate": "1995-2-2",
+  "image": "https://dummyjson.com/icon/hannahr/128",
+  "bloodGroup": "AB+",
+  "height": 150.25,
+  "weight": 67.93,
+  "eyeColor": "Brown",
+  "hair": {
+    "color": "Green",
+    "type": "Kinky"
+  },
+  "ip": "82.201.57.248",
+  "address": {
+    "address": "666 Fourth Street",
+    "city": "Phoenix",
+    "state": "West Virginia",
+    "stateCode": "WV",
+    "postalCode": "82463",
+    "coordinates": {
+      "lat": 3.84181,
+      "lng": -33.501862
+    },
+    "country": "United States"
+  },
+  "macAddress": "d5:da:6d:bc:6d:1b",
+  "university": "Harvard University",
+  "bank": {
+    "cardExpire": "03/27",
+    "cardNumber": "4206391100396837",
+    "cardType": "Interac",
+    "currency": "SEK",
+    "iban": "U5ETD8TPJGZXIHUBTF7XB6BI"
+  },
+  "company": {
+    "department": "Engineering",
+    "name": "Weber Inc",
+    "title": "Technical Support Engineer",
+    "address": {
+      "address": "1654 Second Street",
+      "city": "Indianapolis",
+      "state": "Missouri",
+      "stateCode": "MO",
+      "postalCode": "84519",
+      "coordinates": {
+        "lat": -69.657286,
+        "lng": 97.241416
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "449-504",
+  "ssn": "150-215-129",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "user"
+}

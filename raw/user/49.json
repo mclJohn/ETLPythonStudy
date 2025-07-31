@@ -1,0 +1,70 @@
+{
+  "id": 49,
+  "firstName": "Jacob",
+  "lastName": "Cooper",
+  "maidenName": "",
+  "age": 31,
+  "gender": "male",
+  "email": "jacob.cooper@x.dummyjson.com",
+  "phone": "+91 322-775-7582",
+  "username": "jacobc",
+  "password": "jacobcpass",
+  "birthDate": "1993-12-21",
+  "image": "https://dummyjson.com/icon/jacobc/128",
+  "bloodGroup": "A+",
+  "height": 157.39,
+  "weight": 96.32,
+  "eyeColor": "Brown",
+  "hair": {
+    "color": "Green",
+    "type": "Wavy"
+  },
+  "ip": "145.68.5.38",
+  "address": {
+    "address": "1419 Pine Street",
+    "city": "Columbus",
+    "state": "Montana",
+    "stateCode": "MT",
+    "postalCode": "61227",
+    "coordinates": {
+      "lat": 75.201414,
+      "lng": -106.866138
+    },
+    "country": "United States"
+  },
+  "macAddress": "fd:58:46:54:61:ac",
+  "university": "University of California--Los Angeles (UCLA)",
+  "bank": {
+    "cardExpire": "05/27",
+    "cardNumber": "6854860175138599",
+    "cardType": "Discover",
+    "currency": "AUD",
+    "iban": "EIQKTWLBDUEJKOYYOEFNTT4Y"
+  },
+  "company": {
+    "department": "Engineering",
+    "name": "Kessler, Kozey and Simonis",
+    "title": "Chief Executive Officer",
+    "address": {
+      "address": "1756 Second Street",
+      "city": "Chicago",
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "postalCode": "65899",
+      "coordinates": {
+        "lat": 34.894275,
+        "lng": 74.192722
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "610-768",
+  "ssn": "576-853-277",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "user"
+}

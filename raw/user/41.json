@@ -1,0 +1,70 @@
+{
+  "id": 41,
+  "firstName": "Evan",
+  "lastName": "Reed",
+  "maidenName": "",
+  "age": 32,
+  "gender": "male",
+  "email": "evan.reed@x.dummyjson.com",
+  "phone": "+61 932-569-4853",
+  "username": "evanr",
+  "password": "evanrpass",
+  "birthDate": "1992-6-16",
+  "image": "https://dummyjson.com/icon/evanr/128",
+  "bloodGroup": "O+",
+  "height": 152.55,
+  "weight": 90.4,
+  "eyeColor": "Blue",
+  "hair": {
+    "color": "Blonde",
+    "type": "Kinky"
+  },
+  "ip": "6.25.22.101",
+  "address": {
+    "address": "98 Tenth Street",
+    "city": "San Antonio",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "postalCode": "19937",
+    "coordinates": {
+      "lat": 89.781211,
+      "lng": -50.810277
+    },
+    "country": "United States"
+  },
+  "macAddress": "4d:df:1b:97:83:c0",
+  "university": "University of California--Irvine",
+  "bank": {
+    "cardExpire": "01/29",
+    "cardNumber": "9330874027500659",
+    "cardType": "Interac",
+    "currency": "CAD",
+    "iban": "GLVVKMVFJUI5UD6AT6MOFH56"
+  },
+  "company": {
+    "department": "Human Resources",
+    "name": "Jacobs - Nader",
+    "title": "Business Analyst",
+    "address": {
+      "address": "1130 Tenth Street",
+      "city": "Columbus",
+      "state": "Pennsylvania",
+      "stateCode": "PA",
+      "postalCode": "62624",
+      "coordinates": {
+        "lat": -55.627873,
+        "lng": -146.083081
+      },
+      "country": "United States"
+    }
+  },
+  "ein": "496-858",
+  "ssn": "197-874-889",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36",
+  "crypto": {
+    "coin": "Bitcoin",
+    "wallet": "0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a",
+    "network": "Ethereum (ERC20)"
+  },
+  "role": "user"
+}
