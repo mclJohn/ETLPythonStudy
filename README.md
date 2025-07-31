@@ -17,5 +17,4 @@ Este é um projeto de estudo prático de **ETL (Extração, Transformação e Ca
 - Transformação dos dados com Pandas;
 - Exportação dos dados transformados para arquivos `.csv`.
 
-## 📂 Estrutura do Projeto
 
